@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Luca Fusaro 👋
 
-<!--
-**lucafusaro/lucafusaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Applied Machine Learning Engineer** with an MSc in Physics, working at the intersection of machine learning, signal processing and sensor data.
 
-Here are some ideas to get you started:
+In my professional work, I contribute to the **research, design and implementation** of data-driven methods for Structural Health Monitoring — from literature review and methodological exploration to experimental validation and integration into operational software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in anomaly detection, time-series analysis, physically informed ML and building ML systems that go beyond the experimentation stage.
+
+## 🔬 Professional R&D
+
+At **IoStructures**, I work on R&D for structural monitoring systems using accelerometric, inclinometric and strain-sensor data.
+
+### Multi-sensor anomaly detection
+Researched and developed reconstruction-based anomaly detection methods for accelerometric data, combining graph-aware neural architectures, signal-quality control, residual-based statistical scoring, temporal alarm logic and sensor/axis-level localization.
+
+### Modal & frequency-domain monitoring
+Researched and developed workflows for structural dynamic characterization and monitoring using spectral analysis, Operational Modal Analysis, FDD and SSI-COV, including baseline calibration and automated modal tracking.
+
+### Statistical monitoring of sensor time series
+Developed robust monitoring methods for slower structural measurements, including drift, step/change and cumulative-shift detection, historical threshold calibration and environmental diagnostics.
+
+### Sensor data & edge workflows
+Developed preprocessing and alignment components for multi-sensor acquisition systems, including timestamp handling, quality validation, API integration and edge-to-cloud data workflows.
+
+> Professional source code and implementation details are not publicly available.
+
+## 🚀 Featured Public Projects
