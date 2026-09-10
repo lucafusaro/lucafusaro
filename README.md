@@ -8,7 +8,7 @@ I'm particularly interested in anomaly detection, time-series analysis, machine 
 
 ## 🔬 Professional R&D
 
-At **IoStructures**, I work on R&D for structural monitoring systems using accelerometric, inclinometric and strain-sensor data.
+At **IoStructures**, I work on R&D for structural monitoring systems using accelerometric, inclinometric, strain, environmental-sensor data.
 
 ### Multi-sensor anomaly detection
 Researched and developed reconstruction-based anomaly detection methods for accelerometric data, combining graph-aware neural architectures, signal-quality control, residual-based statistical scoring, temporal alarm logic and sensor/axis-level localization.
@@ -54,7 +54,7 @@ The best fine-grained configuration achieved **94.35% mean balanced model accura
 
 **Sensor & Signal Processing:** FFT · PSD · Frequency-Domain Analysis · Operational Modal Analysis · Anomaly Detection
 
-**Visualization & Applications:** Matplotlib · Plotly · Streamlit
+**Visualization & Applications:** Matplotlib · Plotly · Seaborn · Streamlit
 
 ## 📫 Connect with me
 
