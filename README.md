@@ -4,7 +4,7 @@ I'm an **Applied Machine Learning Engineer** with an MSc in Physics, working at 
 
 In my professional work, I research, design, validate and implement data-driven methods for Structural Health Monitoring — from state-of-the-art review and methodological investigation to experimental validation on real-world sensor data and integration into operational software.
 
-I'm particularly interested in anomaly detection, time-series analysis, machine learning for physical systems and building ML systems that go beyond the experimentation stage.
+I'm particularly interested in **anomaly detection, time-series analysis, machine learning for physical systems** and building ML systems that go beyond the experimentation stage.
 
 ## 🔬 Professional R&D
 
