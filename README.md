@@ -2,9 +2,9 @@
 
 I'm an **Applied Machine Learning Engineer** with an MSc in Physics, working at the intersection of machine learning, signal processing and sensor data.
 
-In my professional work, I contribute to the **research, design and implementation** of data-driven methods for Structural Health Monitoring — from literature review and methodological exploration to experimental validation and integration into operational software.
+In my professional work, I research, design, validate and implement data-driven methods for Structural Health Monitoring — from state-of-the-art review and methodological investigation to experimental validation on real-world sensor data and integration into operational software.
 
-I'm particularly interested in anomaly detection, time-series analysis, physically informed ML and building ML systems that go beyond the experimentation stage.
+I'm particularly interested in anomaly detection, time-series analysis, machine learning for physical systems and building ML systems that go beyond the experimentation stage.
 
 ## 🔬 Professional R&D
 
@@ -40,7 +40,7 @@ Beyond model experimentation, the project focuses on ML engineering: reusable in
 
 Deep-learning project for hierarchical vehicle recognition using **ResNet34**, transfer learning, Focal Loss and specialised part-based classifiers combined through weighted voting.
 
-The final system achieved **94.35% mean balanced model accuracy** and improved performance on the most challenging classes.
+The best fine-grained configuration achieved **94.35% mean balanced model accuracy**, while part-based weighted voting was explored as an additional ensemble approach.
 
 `Python` · `PyTorch` · `Computer Vision` · `Transfer Learning` · `Deep Learning`
 
